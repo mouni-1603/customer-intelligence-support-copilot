@@ -1,0 +1,20 @@
+feature,importance
+num__monetary,0.2778096832430029
+num__frequency,0.2768077100841148
+num__recency,0.11121871679777852
+num__avg_delivery_minutes,0.06164920220833818
+num__avg_discount_pct,0.053177887273308196
+num__cancellation_rate,0.052013765886548664
+num__tenure_days,0.04557228265747927
+cat__favourite_category_Electronics,0.03934488494467117
+num__age,0.03707768930554275
+cat__favourite_category_Personal Care,0.00931679106893258
+cat__gender_male,0.008579318748909453
+cat__favourite_category_Grocery,0.006767388568881263
+cat__city_Mumbai,0.004296190113771235
+cat__favourite_category_Snacks,0.004134901858193247
+cat__city_Chennai,0.003395311687244685
+cat__city_Pune,0.00335186864269737
+cat__city_Delhi,0.0027126511820816657
+cat__city_Hyderabad,0.0026890968841502432
+cat__gender_unknown,8.465884435366919e-05
